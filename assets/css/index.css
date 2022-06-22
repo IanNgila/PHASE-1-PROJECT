@@ -59,3 +59,7 @@ h3 {
     padding: 14px 40px;
     
 }
+.btn:hover {
+    background-color: #483D8B; 
+    color: white;
+  }
