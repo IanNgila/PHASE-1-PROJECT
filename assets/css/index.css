@@ -1,1 +1,8 @@
-
+:root {
+    --dodgerblue:linear-gradient(45deg, aqua, dodgerblue, deeppink) fixed;
+   --dark-turquoise: 	#00CED1;
+    --dark-slate-blue: #483D8B;
+    --dark-slate-gray: #2F4F4F;
+    --light: #EEE;
+    --corn-flower-blue: #6495ED;
+}
