@@ -23,3 +23,14 @@ body {
     height: 100vh;
     margin: 0;
 }
+.container{
+    background-color: var(--light);
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px var(--corn-flower-blue)0 6px 6px var(--corn-flower-blue);
+    padding: 50px 40px;
+    max-width: 100%;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+
+}
