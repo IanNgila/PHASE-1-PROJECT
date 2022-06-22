@@ -34,3 +34,9 @@ body {
     margin: auto;
 
 }
+
+h3 {
+    margin: 0;
+    letter-spacing: 2px;
+    opacity:0.9 ;
+}
