@@ -6,3 +6,5 @@ btn.addEventListener('click', function onClick(event) {
  
     event.target.style.backgroundColor = 'salmon';
   });
+
+  const apiURL="https://v2.jokeapi.dev/joke/Any?blacklistFlags=religious,sexist&type=single"
