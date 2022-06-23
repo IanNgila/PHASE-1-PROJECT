@@ -70,3 +70,7 @@ h3 {
 .btn:focus {
     outline:0
 }
+.btn2{
+    font-size: 20px;
+    padding: 14px 40px;
+}
