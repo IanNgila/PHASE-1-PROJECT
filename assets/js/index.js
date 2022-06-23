@@ -8,3 +8,12 @@ btn.addEventListener('click', function onClick(event) {
   });
 
   const apiURL="https://v2.jokeapi.dev/joke/Any?blacklistFlags=religious,sexist&type=single"
+  
+  let getJoke = () =>{
+    fetch(apiURL)
+    .then(data => data.json())
+    .then(item => {
+        jokeEl.textContent = `${item.joke}`;
+        
+    });
+}
