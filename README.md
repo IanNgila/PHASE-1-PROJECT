@@ -13,6 +13,7 @@ Image 2022-06-23 at 2.52.47 PM.png
  - [Features](#features)
  - [Requirements](#requirements)
  - [Installation Process](#installation-Process)
+ - [Live Link](#Live-Link)
  - [Technology  Used](#technology-Used)
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
@@ -38,6 +39,9 @@ As a user of the application,you will be able to :
 
 * Open the index file from the zipped file with any browser.
  ****
+
+ ### Live Link
+ - Your site is ready to be published at https://ianngila.github.io/Phase-1-PROJECT/
  
 ### Technology  Used
 1 HTML - which was used to develope the structure off the pages.
